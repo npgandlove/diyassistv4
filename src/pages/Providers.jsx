@@ -54,11 +54,11 @@ function Providers() {
       {/* Pricing */}
       <h2>Pricing & Fees</h2>
       <ul>
-        <li>$250 annual membership</li>
+        <li>$350 annual membership</li>
         <li>13% service fee per completed session</li>
         <li>No minimum hours</li>
         <li>No exclusivity</li>
-		<li>No extra fees for narketing or advertising</li>
+		<li>No extra fees for narketing, advertising, or leads</li>
       </ul>
 
       {/* Requirements */}
