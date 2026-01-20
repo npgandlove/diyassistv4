@@ -13,6 +13,7 @@ export default function Client() {
         <li>Mobile device troubleshooting</li>
         <li>Computer setup and support</li>
         <li>Content creation (audio, video, streaming)</li>
+        <li>You put in the request and get offers from providers</li>
 
         <a href="mailto:clients@thediyassist.com?subject=Client Inquiry">Email Us</a>
       </ul>
