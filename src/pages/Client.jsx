@@ -15,7 +15,7 @@ export default function Client() {
         <li>Content creation (audio, video, streaming)</li>
       </ul>
 
-      <a href="https://form.jotform.com/260168284665061" target="_blank" rel="noopener noreferrer">
+      <a href="https://form.jotform.com/260167434511047" target="_blank" rel="noopener noreferrer">
         <button style={{ padding: '14px 24px', fontSize: '16px' }}>
           Request DIY Assistance
         </button>
