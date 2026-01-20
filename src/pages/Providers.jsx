@@ -58,7 +58,7 @@ function Providers() {
         <li>13% service fee per completed session</li>
         <li>No minimum hours</li>
         <li>No exclusivity</li>
-		<li>No extra fees for narketing, advertising, or leads</li>
+		<li>No extra fees for marketing, advertising, or leads</li>
       </ul>
 
       {/* Requirements */}
