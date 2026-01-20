@@ -13,6 +13,8 @@ export default function Client() {
         <li>Mobile device troubleshooting</li>
         <li>Computer setup and support</li>
         <li>Content creation (audio, video, streaming)</li>
+
+        <a href="mailto:clients@thediyassist.com?subject=Client Inquiry">Email Us</a>
       </ul>
 
       <a href="https://form.jotform.com/260167434511047" target="_blank" rel="noopener noreferrer">
