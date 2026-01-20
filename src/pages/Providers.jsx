@@ -58,7 +58,7 @@ function Providers() {
         <li>13% service fee per completed session</li>
         <li>No minimum hours</li>
         <li>No exclusivity</li>
-		    <li>No extra fees for narketing or advertising</li>
+		<li>No extra fees for narketing or advertising</li>
       </ul>
 
       {/* Requirements */}
@@ -68,6 +68,8 @@ function Providers() {
         <li>Legally authorized to work in the U.S.</li>
         <li>Valid licenses, certifications, or verifiable experience</li>
         <li>Compliance with applicable laws and regulations</li>
+
+		  <a href="mailto:providers@thediyassist.com?subject=Provider Inquiry">Email Us</a>
       </ul>
 
       {/* CTA */}
